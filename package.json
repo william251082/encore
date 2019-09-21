@@ -5,6 +5,8 @@
     "copy-webpack-plugin": "^5.0.4",
     "font-awesome": "4",
     "jquery": "^3.4.1",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.0.1",
     "sweetalert2": "^8.17.6",
     "webpack-notifier": "^1.6.0"
   }
