@@ -2,23 +2,23 @@
   "entrypoints": {
     "rep_log": {
       "js": [
-        "/build/manifest.js",
-        "/build/layout.js",
-        "/build/rep_log.js"
+        "/build/manifest.99e4200e.js",
+        "/build/layout.cb8edf2a.js",
+        "/build/rep_log.468b09aa.js"
       ],
       "css": [
-        "/build/layout.css"
+        "/build/layout.377e4871.css"
       ]
     },
     "login": {
       "js": [
-        "/build/manifest.js",
-        "/build/layout.js",
-        "/build/login.js"
+        "/build/manifest.99e4200e.js",
+        "/build/layout.cb8edf2a.js",
+        "/build/login.1efd153d.js"
       ],
       "css": [
-        "/build/layout.css",
-        "/build/login.css"
+        "/build/layout.377e4871.css",
+        "/build/login.bee6a8a2.css"
       ]
     }
   }
