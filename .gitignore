@@ -1,6 +1,7 @@
 .idea
 .vscode
 .env
+/node_modules/*
 
 /public/uploads
 composer.lock
