@@ -1,9 +1,9 @@
 'use strict';
 
-const Helper = require('./RepLogHelper');
-const $ = require('jquery');
-const swal = require('sweetalert2');
-const Routing = require('./Routing');
+import Helper from './RepLogHelper';
+import $ from 'jquery';
+import swal from 'sweetalert2';
+import Routing from './Routing';
 // const Routing = require('../../../vendor/friendsofsymfony/jsrouting-bundle/Resources/public/js/router');
 
 let HelperInstances = new WeakMap();
@@ -212,4 +212,4 @@ const rowTemplate = (repLog) => `
 </tr>
 `;
 
-module.exports = RepLogApp;
+export default RepLogApp;
