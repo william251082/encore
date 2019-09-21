@@ -5,10 +5,10 @@
 
 
 /public/uploads
-/public/build
 /public/build/*
 ./public/build/*
 public/build/*
+/public/build/rep_log.js
 composer.lock
 symfony.lock
 
