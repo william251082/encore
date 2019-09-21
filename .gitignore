@@ -3,7 +3,9 @@
 .env
 /node_modules/*
 
+
 /public/uploads
+/public/build
 composer.lock
 symfony.lock
 
