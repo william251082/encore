@@ -6,8 +6,11 @@
 
 /public/uploads
 /public/build
+/public/build/*
 composer.lock
 symfony.lock
+
+yarn-error.log
 
 /.env
 /.env.local

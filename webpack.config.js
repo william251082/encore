@@ -13,6 +13,7 @@ Encore
     .addEntry('layout', './public/assets/js/layout.js')
 
     .enableBuildNotifications()
+    .autoProvidejQuery()
 ;
 
 // export the final configuration
